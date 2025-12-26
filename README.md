@@ -1,24 +1,13 @@
-# README
+# Leaderboard Back-End with Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a backend application for managing player scores and leaderboard.
 
-Things you may want to cover:
+## Features
+- Submit player scores
+- Retrieve top 10 scores
+- Follow/unfollow players to track their scores
 
-* Ruby version
+## Tech Stack
+- Ruby on Rails
+- PostgreSQL
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
